@@ -1,0 +1,1 @@
+{"name": "portfolio-site", "version": "1.0.0", "scripts": {"start": "npm run vercel"}, "dependencies": {"@vercel/static-build": "^1.0.0"}}
